@@ -19,7 +19,7 @@ CORS(app)
 # MySQL Configuration
 app.config["MYSQL_HOST"] = "localhost"
 app.config["MYSQL_USER"] = "root"
-app.config["MYSQL_PASSWORD"] = "root"
+app.config["MYSQL_PASSWORD"] = "Admin1234"
 app.config["MYSQL_DB"] = "plagiarism_checker"
 
 mysql = MySQL(app)

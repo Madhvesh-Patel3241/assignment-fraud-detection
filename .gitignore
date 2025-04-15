@@ -1,6 +1,7 @@
 # Ignore Angular dependencies
 plagiarism-frontend/node_modules/
 plagiarism-frontend/dist/
+.env
 
 # Ignore Flask virtual environment
 plagiarism-backend/venv/
