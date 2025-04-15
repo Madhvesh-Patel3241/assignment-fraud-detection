@@ -2,6 +2,7 @@
 plagiarism-frontend/node_modules/
 plagiarism-frontend/dist/
 .env
+sonar-project.properties
 
 # Ignore Flask virtual environment
 plagiarism-backend/venv/
