@@ -7,3 +7,8 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
  - **Plagiarism Detection**: Compares assignments to identify internal plagiarism using text similarity analysis.
  - **Fraud Reports**: Generates detailed reports highlighting plagiarized sections and fraud scores.
+ - **File Upload Management**: Supports multiple file uploads with validation and organization by class.
+ - **User Authentication**: Secure registration, login, and admin CRUD operations using JWT.
+ - **Visual Dashboard**: Displays plagiarism results with graphs and charts.
+
+## 
