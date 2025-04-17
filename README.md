@@ -11,4 +11,7 @@ This project is a web-based system designed to detect and prevent fraudulent act
  - **User Authentication**: Secure registration, login, and admin CRUD operations using JWT.
  - **Visual Dashboard**: Displays plagiarism results with graphs and charts.
 
-## 
+## Tech Stack
+
+ - **Frontend**: AngularJS, Bootstrap
+ - **Backend**: Python, Flask, scikit-learn, numpy
