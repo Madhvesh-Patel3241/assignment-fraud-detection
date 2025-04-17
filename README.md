@@ -15,3 +15,8 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
  - **Frontend**: AngularJS, Bootstrap
  - **Backend**: Python, Flask, scikit-learn, numpy
+ - **Database**: MySQL
+ - **Tools**: JIRA (project management), Postman (API testing), SonarQube (static analysis, planned)
+ - **Authentication**: JWT, bcrypt
+
+##
