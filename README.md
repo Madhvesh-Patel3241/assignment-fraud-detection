@@ -23,9 +23,14 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
  1. **Clone the Repository:**
 
-        git clone https://github.com/your-username/fraud-detection-classroom.git
-
-
+        git clone https://github.com/Madhvesh-Patel3241/assignment-fraud-detection.git
         cd fraud-detection-classroom
 
- 2. 
+ 2. **Backend Setup:**
+
+ - Configure MySQL database (see Database Schema below).
+ - Run the Flask server:
+
+        python app.py
+
+3. 
