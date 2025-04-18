@@ -19,4 +19,13 @@ This project is a web-based system designed to detect and prevent fraudulent act
  - **Tools**: JIRA (project management), Postman (API testing), SonarQube (static analysis, planned)
  - **Authentication**: JWT, bcrypt
 
-##
+## Installation
+
+ 1. **Clone the Repository:**
+
+        git clone https://github.com/your-username/fraud-detection-classroom.git
+
+
+        cd fraud-detection-classroom
+
+ 2. 
