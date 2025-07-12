@@ -33,4 +33,13 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
         python app.py
 
-3. 
+3. **Frontend Setup:**
+ - Install npm dependencies:
+
+       npm install
+
+ - Start the AngularJS app:
+
+       npm start
+
+4.  
