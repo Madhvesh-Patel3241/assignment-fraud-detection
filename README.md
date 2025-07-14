@@ -42,4 +42,16 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
        npm start
 
-4.  
+4. **Environment Variables:**
+
+ - Create a .env file in the backend root with:
+
+       MYSQL_HOST=localhost
+       MYSQL_USER=root
+       MYSQL_PASSWORD=your_password
+       MYSQL_DB=plagiarism_checker
+       JWT_SECRET_KEY=your_secret_key
+
+ ## Database Schema
+
+ The project uses a MySQL database with the following tables:
