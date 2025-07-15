@@ -55,3 +55,32 @@ This project is a web-based system designed to detect and prevent fraudulent act
  ## Database Schema
 
  The project uses a MySQL database with the following tables:
+
+    -- Files Table
+    CREATE TABLE files (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        filename VARCHAR(255) NOT NULL,
+        filepath TEXT NOT NULL
+    );
+
+    -- Results Table
+    CREATE TABLE results (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        file1 VARCHAR(255),
+        file2 VARCHAR(255),
+        similarity FLOAT
+    );
+
+    -- Users Table
+    CREATE TABLE users (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        username VARCHAR(100) NOT NULL,
+        email VARCHAR(100) NOT NULL UNIQUE,
+        password VARCHAR(255) NOT NULL
+    );
+
+
+ ## Usage
+
+ 1. Register or log in as a user/admin.
+ 2. Upload assignment files via the frontend interface.
