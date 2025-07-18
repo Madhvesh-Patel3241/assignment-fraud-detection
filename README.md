@@ -86,3 +86,11 @@ This project is a web-based system designed to detect and prevent fraudulent act
  2. Upload assignment files via the frontend interface.
  3. View plagiarism detection results and fraud reports.
  4. Admins can manage users and configure similarity thresholds.
+
+
+## Screenshots
+
+ - Login Page:
+   
+ 
+ - Plagiarism Dashboard:
