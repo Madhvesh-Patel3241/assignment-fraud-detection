@@ -99,8 +99,8 @@ This project is a web-based system designed to detect and prevent fraudulent act
 ## Future Enhancements
  - Integrate machine learning for advanced plagiarism detection.
  - Optimise performance for large datasets.
-<!-- - Implement full CI/CD pipelines with Jenkins.
- - Add support for multiple courses/institutions. -->
+ - Implement full CI/CD pipelines with Jenkins.
+ - Add support for multiple courses/institutions.
 
 
 <!-- Built with ❤️ by Team ClearGrade
