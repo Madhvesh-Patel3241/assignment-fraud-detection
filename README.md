@@ -103,5 +103,4 @@ This project is a web-based system designed to detect and prevent fraudulent act
  - Add support for multiple courses/institutions.
 
 
-<!-- Built with ❤️ by Team ClearGrade
--->
+ Built with ❤️ by Team ClearGrade
