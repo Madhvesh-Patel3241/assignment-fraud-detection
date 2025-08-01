@@ -40,7 +40,7 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
  - Start the AngularJS app:
 
-       npm start
+       ng serve
 
 4. **Environment Variables:**
 
@@ -92,6 +92,8 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
  - Login Page:
    
+  <!--  <img width="1892" height="893" alt="Screenshot 2025-08-01 190246" src="https://github.com/user-attachments/assets/9d8495fb-bfa8-4e25-af52-376d94725a9b" /> -->
+
  
  - Plagiarism Dashboard:
 
