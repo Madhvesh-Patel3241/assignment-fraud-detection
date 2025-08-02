@@ -100,6 +100,9 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
  - Plagiarism Dashboard:
 
+   <img width="1901" height="897" alt="Screenshot 2025-08-01 185925" src="https://github.com/user-attachments/assets/31ec7bdc-8bfe-4e22-9a7e-4df8b5a88222" />
+
+ - 
 
 ## Future Enhancements
  - Integrate machine learning for advanced plagiarism detection.
