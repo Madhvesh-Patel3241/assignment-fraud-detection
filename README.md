@@ -102,7 +102,11 @@ This project is a web-based system designed to detect and prevent fraudulent act
 
    <img width="1901" height="897" alt="Screenshot 2025-08-01 185925" src="https://github.com/user-attachments/assets/31ec7bdc-8bfe-4e22-9a7e-4df8b5a88222" />
 
- - 
+ - Home Page:
+
+   <img width="1905" height="893" alt="Screenshot 2025-08-01 185847" src="https://github.com/user-attachments/assets/317b4ae4-1084-471c-be62-cf7555d1561b" />
+
+   
 
 ## Future Enhancements
  - Integrate machine learning for advanced plagiarism detection.
