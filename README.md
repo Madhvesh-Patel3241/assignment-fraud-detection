@@ -124,3 +124,4 @@ Prajapati Akash Ashokkumar - Frontend, Authentication, Reporting
 Patel Madhvesh Ajaybhai - Backend, Plagiarism Detection, File Management --> 
 
  Built with ❤️ by Team ClearGrade
+ 
